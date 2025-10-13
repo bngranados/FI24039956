@@ -1,7 +1,8 @@
 # Practica Programada 2 (PP2) - Inversion de Archivo con Pila (Stack)
 
 ## Datos Personales
-| Nombre | Brenda Nazaret Granados Ramirez |
+| Nombre: Brenda Nazaret Granados Ramirez |
+
 | **Carnet** | FI24039956 |
 
 ---
@@ -46,3 +47,4 @@ El ejemplo mas claro de la vida real que refleja el uso de una pila (LIFO: Last-
 * **Pop (Desapilar):** Cuando una persona toma un plato para usarlo, siempre toma el que esta en la cima. (El ultimo plato que entro es el primero en salir).
 
 **Analisis:** Los platos que se colocaron primero quedan abajo y son los ultimos en ser usados, mientras que el plato que se coloco mas recientemente es el que esta disponible de inmediato.
+

@@ -1,4 +1,4 @@
-# Proyecto Final: The Sandwich Guy 🥪 - Avance I
+# Proyecto Final: The Sandwich Guy  - Avance I
 
 ## Integrantes del Grupo
 | Nombre | Carné | Usuario Git | Correo Git |

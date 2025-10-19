@@ -21,6 +21,9 @@ Para el desarrollo de la practica programada 2 se utilizaron los recursos brinda
 * [Enlace de apoyo para BufferedWriter](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/io/BufferedWriter.html)
 * [Enlace de apoyo para FileWriter](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/io/FileWriter.html)
 
+## IDE Utilizado
+- Visual Studio Code en **Java SE 21 & JDK 21**
+
 ---
 
 ## Preguntas de Analisis

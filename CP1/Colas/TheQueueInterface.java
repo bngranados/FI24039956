@@ -1,3 +1,5 @@
+package CP1.Colas;
+
 public interface TheQueueInterface<Type> {
 
     void enqueue(Type item); // encolar

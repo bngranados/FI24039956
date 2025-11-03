@@ -39,8 +39,8 @@ public class TheQueue<Type> implements TheQueueInterface<Type> {
 
 // UPDATE: Implementa la logica para vaciar la cola y formar codones de tres nucleotidos cada uno.
 // Referencia: Logica de vaciado secuencial de cola, implementando la formacion de codon. https://stackoverflow.com/questions/22067713/how-to-remove-the-first-n-elements-from-a-queue-in-java
-    @SuppressWarnings("unchecked") // Para manejar el cast de Type a String
-    public String[] getCodons() {
+
+public String[] getCodons() {
         int numCodons = _queue.size() / 3;
         String[] codons = new String[numCodons];
         

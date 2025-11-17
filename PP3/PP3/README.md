@@ -3,7 +3,7 @@
 ## Datos Personales
 | **Nombre:** Brenda Nazaret Granados Ramírez |
 |---------------------------------------------|
-| **Carné:** FI24039956 |
+| **Carnét:** FI24039956 |
 
 ---
 

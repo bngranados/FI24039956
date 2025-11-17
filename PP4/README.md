@@ -8,8 +8,7 @@
 
 ---                     
 
-| IDE o Editor Utilizado: | Visual Studio Code (VS Code) Java SE 21 & JDK 21  |
----
+| IDE o Editor Utilizado:  Visual Studio Code (VS Code) Java SE 21 & JDK 21  |
 
 ## Referencias y Snippets de Código
 

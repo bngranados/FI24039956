@@ -4,7 +4,13 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-
+        {
+            "type": "java",
+            "name": "BinTreeIntArray",
+            "request": "launch",
+            "mainClass": "PP4.BinTreeIntArray",
+            "projectName": "FI24039956_b48eb9a9"
+        },
         {
             "type": "java",
             "name": "Current File",
@@ -40,13 +46,15 @@
             "projectName": "FI24039956_b48eb9a9"
         },
         {
-             "type": "java",
-             "name": "Ejecutar ListDoublyCircular",
-             "request": "launch",
-             "mainClass": "PP3.ListDoublyCircular",
-             "projectName": "FI24039956_b48eb9a9",
-             "args": ["3"]
-        },   
+            "type": "java",
+            "name": "Ejecutar ListDoublyCircular",
+            "request": "launch",
+            "mainClass": "PP3.ListDoublyCircular",
+            "projectName": "FI24039956_b48eb9a9",
+            "args": [
+                "3"
+            ]
+        },
         {
             "type": "java",
             "name": "MyStack",

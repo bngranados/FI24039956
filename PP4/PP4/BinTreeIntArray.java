@@ -126,8 +126,6 @@ public class BinTreeIntArray {
 
         System.out.println();
     }
-
-    // =====================
    
     public static void main(String[] args) {
         var tree = new BinTreeIntArray(7);

@@ -8,6 +8,13 @@
             "type": "java",
             "name": "BinTreeIntArray",
             "request": "launch",
+            "mainClass": "BinTreeIntArray",
+            "projectName": "FI24039956_b48eb9a9"
+        },
+        {
+            "type": "java",
+            "name": "BinTreeIntArray",
+            "request": "launch",
             "mainClass": "PP4.BinTreeIntArray",
             "projectName": "FI24039956_b48eb9a9"
         },

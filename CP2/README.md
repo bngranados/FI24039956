@@ -1,4 +1,4 @@
-# Práctica Programada 4 – Árbol Binario en Arreglo
+# Caso Practico 2
 
 ## Datos del Estudiante
 | Campo | Valor |
@@ -25,5 +25,6 @@
 
 ## Compilación y ejecución del código:
 
+<img width="1266" height="946" alt="image" src="https://github.com/user-attachments/assets/6012b1d0-3ccc-480d-a069-17bb34309eb6" />
 
 ---

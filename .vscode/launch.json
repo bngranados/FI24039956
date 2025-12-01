@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "CP2.Main",
+            "projectName": "FI24039956_b48eb9a9"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "FI24039956_b48eb9a9"
+        },
+        {
+            "type": "java",
             "name": "BinTreeIntArray",
             "request": "launch",
             "mainClass": "BinTreeIntArray",
